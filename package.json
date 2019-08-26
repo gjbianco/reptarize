@@ -1,0 +1,24 @@
+{
+  "name": "reptarize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gjbianco/reptarize.git"
+  },
+  "keywords": [
+    "reptarize",
+    "reptar",
+    "ace"
+  ],
+  "author": "Guy Bianco IV <guy@guy.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjbianco/reptarize/issues"
+  },
+  "homepage": "https://github.com/gjbianco/reptarize#readme"
+}
