@@ -2,9 +2,9 @@
   "name": "reptarize",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "reptarize.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   ],
   "author": "Guy Bianco IV <guy@guy.sh>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gjbianco/reptarize/issues"
-  },
-  "homepage": "https://github.com/gjbianco/reptarize#readme"
+  "homepage": "https://github.com/gjbianco/reptarize#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
